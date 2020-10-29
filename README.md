@@ -1,5 +1,5 @@
 # Cuneiform-OCR
-This repository contains code for line detection, character detection and recognition on the cuneiform 2d images 
+This repository contains code for line detection, character detection and classification on the cuneiform 2d images 
 
 Each folder contains the respective code for:
 
